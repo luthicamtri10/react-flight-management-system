@@ -51,3 +51,24 @@ This project requires the backend to be running for full functionality. Please e
 - Follow the instructions in the backend repository’s `README` to set up and run the backend server.
 
 Without the backend, some features like authentication, data fetching, and API interactions may not work as intended.
+
+## My Responsibility
+- Xây dựng giao diện và logic cho:
+  - CRUD Máy bay, Hãng bay, Sân bay, Hạng vé, Feedback
+  - Trang thống kê giờ bay (Chart)
+  - Tìm kiếm, phân trang, filter dữ liệu
+- Tích hợp API (Flight, Airport, Feedback, Ticket,…)
+- Tối ưu call API, xử lý JWT, bảo vệ route
+- Phối hợp backend để thống nhất API & database
+## 👥 Contributors
+| Name | Role |
+|--------|------|
+|Lữ Thị Cẩm Tri | Frontend / Backend / Tester |
+| Văn Tuấn Kiệt - LEADER | PM / Backend / Frontent / Tester |
+| Mai Phúc Lâm | Tester / Frontend / Backend |
+| Nguyễn Đức Duy Lâm | Tester / Frontend / Backend |
+| Nguyễn Hữu Lộc | Tester / Frontend / Backend |
+| Hồ Hưng Lộc | Tester / Frontend / Backend |
+| Nguyễn Thị Mai Trinh | Tester / Frontend / Backend |
+
+Thanks for your visit!
